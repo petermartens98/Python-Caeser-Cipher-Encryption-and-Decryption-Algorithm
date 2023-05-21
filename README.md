@@ -1,4 +1,4 @@
-# Python Caeser Cypher Encryption Algorithm
+# Python Caeser Cipher Encryption Algorithm
 ## Screenshot
 ![image](https://github.com/petermartens98/Python-Caeser-Cypher-Encrypyion-Algorithm/assets/87671757/014ca8c6-5a2a-4431-86d3-fbc639e145df)
 
