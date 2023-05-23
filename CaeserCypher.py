@@ -32,10 +32,8 @@ def CaeserCipher():
     print("2. Decrypt")
     choice = input("Choose an option (1/2): ")
 
-    if choice == "1":
-        action = "encrypt"
-    elif choice == "2":
-        action = "decrypt"
+    if choice == "1": action = "encrypt"
+    elif choice == "2": action = "decrypt"
     else:
         print("Invalid choice.")
         return
