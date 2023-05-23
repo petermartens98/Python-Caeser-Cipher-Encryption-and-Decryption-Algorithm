@@ -1,6 +1,6 @@
 # Python Caeser Cipher Encryption Algorithm
 ## Screenshot
-![image](https://github.com/petermartens98/Python-Caeser-Cypher-Encrypyion-Algorithm/assets/87671757/014ca8c6-5a2a-4431-86d3-fbc639e145df)
+![image](https://github.com/petermartens98/Python-Caeser-Cipher-Encryption-Algorithm/assets/87671757/da7f647e-cda4-431b-85a9-e4dde0400e97)
 
 ## Description
 Python application that implements the Caesar cipher algorithm. It provides a user-friendly interface to encrypt messages by shifting each letter by a specified amount. The program takes a user input message and a shift value between 0 and 25 (inclusive), applies the encryption algorithm, and displays the encrypted message.
